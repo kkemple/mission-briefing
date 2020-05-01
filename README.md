@@ -1,2 +1,0 @@
-# mission-briefing
-Begin app
